@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b00eadcc-e52d-4b07-a253-2f18920aceb7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b00eadcc-e52d-4b07-a253-2f18920aceb7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,5 +88,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
